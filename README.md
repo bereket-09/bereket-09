@@ -7,9 +7,9 @@
 <h3 align="center">A passionate Full stack developer and VAS Engineer from Ethiopia</h3>
 
 
-- 🔭 I’m currently working on **Full stack Apps**
+- 🔭 I’m currently working on **Full stack Apps and VAS Solutions**
 
-- 🌱 I’m currently learning **DEVOps and kubernetes**
+- 🌱 I’m currently learning **Telco Protocols and LLMS**
 
 - 👯 I’m looking to collaborate on **New Project Ideas**
 
@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [bereket-zelalem.vercel.app](https://bereket-zelalem.vercel.app)
 
-- 💬 Ask me about **MEAN Stack , Flutter and Laravel and Full stack Iin general**
+- 💬 Ask me about **MEAN Stack , Flutter and Laravel and Full stack in general**
 
 - 📫 How to reach me **bereketyezelalem@gmail.com**
 
