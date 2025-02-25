@@ -1,4 +1,4 @@
-[![MasterHead]([(https://media.licdn.com/dms/image/v2/D4D16AQFWoiV9tvtg6Q/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1701975697580?e=1746057600&v=beta&t=PCqnFwCBpyamP9gth39Y1ZQzMleTOU_EJCipURFk6fQ)](https://ethio-devs.vercel.app)
+[![MasterHead]([((https://media.licdn.com/dms/image/v2/D4D16AQFWoiV9tvtg6Q/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1701975697580?e=1746057600&v=beta&t=PCqnFwCBpyamP9gth39Y1ZQzMleTOU_EJCipURFk6fQ))](https://ethio-devs.vercel.app)
 <h1 align="center">Hi 👋, I'm Bereket Zelalem</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bereket-09&label=Profile%20views&color=0e75b6&style=flat" alt="bereket-09" /> </p>
