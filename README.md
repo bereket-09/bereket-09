@@ -10,7 +10,7 @@
   <a href="https://github.com/bereket-09">
     <img src="https://komarev.com/ghpvc/?username=bereket-09&label=Profile%20views&color=58A6FF&style=for-the-badge" alt="profile views" />
   </a>
-  <img src="https://img.shields.io/badge/Years_in_Industry-7%2B-58A6FF?style=for-the-badge" alt="years" />
+  <img src="https://img.shields.io/badge/Industry-~5_Years-58A6FF?style=for-the-badge" alt="years" />
   <img src="https://img.shields.io/badge/Based_in-Ethiopia-FFCD3C?style=for-the-badge" alt="location" />
   <img src="https://img.shields.io/badge/Status-Open_to_collaboration-3FB950?style=for-the-badge" alt="status" />
 </p>
@@ -27,7 +27,7 @@
 
 ## About Me
 
-> Senior Full-Stack Engineer and VAS Systems Developer with 7+ years building production software across **telecommunications, fintech, and consumer web**. I lead engineering teams, own architecture from database to UI, and ship reliable systems that serve millions of users on carrier-grade infrastructure.
+> Senior Full-Stack Engineer and VAS Systems Developer with ~5 years building production software across **telecommunications, fintech, and consumer web**. I lead engineering teams, own architecture from database to UI, and ship reliable systems on carrier-grade infrastructure.
 
 ```yaml
 role:        Senior Full-Stack Engineer · VAS Systems Developer · Team Lead
@@ -146,8 +146,8 @@ Lead small-to-mid engineering teams: sprint planning, technical roadmaps, code r
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=bereket-09&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&card_width=480" alt="stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bereket-09&layout=compact&theme=github_dark&hide_border=true&langs_count=10&card_width=360" alt="top languages" />
+<img height="180" src="https://github-readme-stats.hackclub.dev/api?username=bereket-09&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&card_width=480" alt="stats" />
+<img height="180" src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=bereket-09&layout=compact&theme=github_dark&hide_border=true&langs_count=10&card_width=360" alt="top languages" />
 
 <img src="https://streak-stats.demolab.com?user=bereket-09&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="streak" />
 
