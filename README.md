@@ -145,9 +145,22 @@ Lead small-to-mid engineering teams: sprint planning, technical roadmaps, code r
 ## GitHub Stats
 
 <div align="center">
+  <img src="https://github-stats-alpha.vercel.app/api?username=bereket-09&cc=22272e&tc=58A6FF&ic=58A6FF&bc=0000" alt="stats" />
+</div>
 
-<img height="180" src="https://github-readme-stats.hackclub.dev/api?username=bereket-09&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&card_width=480" alt="stats" />
-<img height="180" src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=bereket-09&layout=compact&theme=github_dark&hide_border=true&langs_count=10&card_width=360" alt="top languages" />
+### Language Proficiency
+
+| Stack | Proficiency | Focus |
+|:--|:--|:--|
+| **TypeScript** · JavaScript | `████████████` | Daily driver · MEAN, MERN, full-stack |
+| **Dart** · Flutter | `██████████░░` | Production · cross-platform mobile |
+| **PHP** · Laravel | `██████████░░` | Production · backend services, VAS APIs |
+| **Java** · Spring | `█████████░░░` | Advanced · telco / VAS backends |
+| **Python** | `████████░░░░` | Advanced · LLM tooling, automation |
+| **Go** | `███████░░░░░` | Working · microservices, CLI tools |
+| **C / C++** | `█████░░░░░░░` | Working · signaling & low-level work |
+
+<div align="center">
 
 <img src="https://streak-stats.demolab.com?user=bereket-09&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="streak" />
 
