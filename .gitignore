@@ -1,0 +1,6 @@
+# GitHub profile repo (bereket-09/bereket-09).
+# It should only ever track the profile README. Everything else living in this
+# folder — separate project clones, local tooling, OS cruft — stays out.
+*
+!README.md
+!.gitignore
